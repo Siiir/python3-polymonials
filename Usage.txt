@@ -1,0 +1,16 @@
+The program was designed to work with algebraical expressions.  For now, it has one builtin object – polynomial.
+
+It can find its use in polynomial calculations and mathematical analysis. For example:
+	computing polynomial value for any given complex number (x∈C)
+	finding zero places **
+	ploting graphs**
+	finding deriviative
+	all operations (+ - *) except for division which isn't implemented yet
+**implemented only for polynomials of 2 to 0 degree
+
+It is also capable of making many operations on polynomials of all degrees, including:
+	moving their terms left, right
+	changing/adding terms
+	can concatenate with other [polynomial/list] objects
+	has most properties of the list object, but is indexed from  n to 0, where n equals its degree.
+	and other...
