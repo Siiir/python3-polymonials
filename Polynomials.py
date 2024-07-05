@@ -315,7 +315,7 @@ class polynomial(list):
 
 
     '7..5—Mathematical analises/calculations--------------'
-    '3—Horner & his childs'
+    '3—Horner & his children'
     '2—Horners algorithm.'
     def horne(s3, x):
         y= 0
